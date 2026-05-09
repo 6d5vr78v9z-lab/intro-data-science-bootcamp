@@ -1,0 +1,8 @@
+data/
+*.csv
+plot_images/
+plot_images.zip
+build_*.py
+extract_images.py
+__pycache__/
+.ipynb_checkpoints/
